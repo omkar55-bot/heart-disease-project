@@ -1,0 +1,10 @@
+ECHO is on.
+
+# Ignore the entire env directory
+env/
+
+# Ignore the file Mayerkar_Omkar_P3.ipynb
+Mayerkar_Omkar_P3.ipynb
+
+# Ignore the entire .ipynb_checkpoints directory
+.ipynb_checkpoints/
