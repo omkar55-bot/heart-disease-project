@@ -8,3 +8,10 @@ Mayerkar_Omkar_P3.ipynb
 
 # Ignore the entire .ipynb_checkpoints directory
 .ipynb_checkpoints/
+
+# Ignore the text files 
+P3test.txt
+P3train.txt
+
+# Ignore entire catboost_info directory
+catboost_info/
