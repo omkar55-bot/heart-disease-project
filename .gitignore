@@ -15,3 +15,9 @@ P3train.txt
 
 # Ignore entire catboost_info directory
 catboost_info/
+
+# Ignore the file intro-to_sklearn.ipynb
+intro-to_sklearn.ipynb
+
+# Ignore the file end-end-heart-disease-classification.ipynb
+end-end-heart-disease-classification.ipynb
